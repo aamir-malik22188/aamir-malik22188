@@ -3,7 +3,7 @@
 
 # Hi there! :wave: Welcome to my GitHub page!
 
-<img src="https://via.placeholder.com/150" width='500px'>
+<img src="https://raw.githubusercontent.com/aamir-malik22188/aamir-malik22188/main/social-header.jpg" width='100%'>
 
 
 
@@ -11,9 +11,7 @@
 ## About Me :computer: :basketball: :bike: 
 
 
-I am a Full Stack Developer who has an extensive professional background (8+ years) in Healthcare and IT. 
-
-I have had the opportunity to gain experience and knowledge in various functions of a business, from Lab Operations to IT. 
+I am a Full Stack Developer who has an extensive professional background (8+ years) in Healthcare and IT. I have had the opportunity to gain experience and knowledge in various functions of a business, from Lab Operations to IT. 
 
 When I'm not coding, you can catch me playing basketball or going on a long bike ride.
 
