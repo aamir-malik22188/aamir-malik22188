@@ -3,7 +3,7 @@
 
 # Hi there! :wave: Welcome to my GitHub page!
 
-<img src="https://raw.githubusercontent.com/aamir-malik22188/aamir-malik22188/main/social-header.jpg" width='100%'>
+<img src="https://raw.githubusercontent.com/aamir-malik22188/aamir-malik22188/main/github-readme.jpg" width='100%'>
 
 
 
