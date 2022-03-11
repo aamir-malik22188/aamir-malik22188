@@ -11,9 +11,9 @@
 ## About Me :computer: :basketball: :bike: 
 
 
-I am a Full Stack Developer who has an extensive professional background (8+ years) in Healthcare and IT. I have had the opportunity to gain experience and knowledge in various functions of a business, from Lab Operations to IT. 
+I have an extensive professional background (8+ years) in Healthcare and IT. I have had the opportunity to gain experience in various facets of a business, but I enjoy being a part of Operations and IT. 
 
-When I'm not coding, you can catch me playing basketball or going on a long bike ride.
+When I'm not at work or studying, you can catch me playing basketball or going on a long bike ride.
 
 I love learning new things and provide a helping hand where I can. Feel free to reach out to me if you want to collaborate.
 
